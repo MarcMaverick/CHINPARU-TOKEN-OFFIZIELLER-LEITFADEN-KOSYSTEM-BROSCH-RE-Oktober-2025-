@@ -1,57 +1,63 @@
-chinparu-agent/
-├── contracts/
-│   └── ChinparuTokenV2.sol
-└── agent/
-    ├── main.py
-    ├── abi.json            # Platzhalter – nach Deployment einfügen
-    ├── requirements.txt
-    └── .env                # Konfigurationsdatei (nicht committen!)
-├── .gitignore
-└── README.md
-agent/.env
-agent/abi.json
-# Chinparu Agent
-
-📦 KI-gesteuertes Setup für deinen Chinparu Token auf Sepolia.
-
-## 🧩 Projektstruktur
-
-- contracts/ChinparuTokenV2.sol – smarter Token-Contract  
-- agent/main.py – Python-Agent mit OpenAI-Logik  
-- agent/requirements.txt – benötigte Python-Pakete  
-
-## 🚀 Deployment & Setup
-
-1. Deploy `ChinparuTokenV2.sol` auf Sepolia über Remix.
-2. ABI exportieren → `agent/abi.json` ablegen.
-3. `.env` in `agent/` anlegen mit Variablen:
-4. Python-Agent installieren und starten:
-```bash
-cd agent
-pip install -r requirements.txt
-python main.py
-
----
-
-### 4️⃣ Code & Anleitung zum Setup
-
-- `contracts/ChinparuTokenV2.sol`: Smart Contract mit `performAction(...)`
-- `agent/main.py`: Python-Agent
-- `agent/requirements.txt`
-- `.gitignore` sorgt für Sicherheit
-- `README.md` erklärt alles Schritt für Schritt
-
----
-
-## ✅ Jetzt übernehmen – so geht’s:
-
-1. **Neues Repo erstellen** auf GitHub: z. B. `chinparu-agent`
-2. Im Terminal:
-
-```bash
-git init
-git remote add origin https://github.com/dein-username/chinparu-agent.git
-git add .
-git commit -m "Initial Chinparu Agent setup"
-git branch -M main
-git push -u origin main
+🚀 CHINPARU TOKEN – OFFIZIELLER LEITFADEN & ÖKOSYSTEM-BROSCHÜRE (Oktober 2025)
+EIN TOKEN. EINE MISSION. EINE ZUKUNFT.
+Autor: Chinparu Token Team
+Veröffentlicht: 27. Oktober 2025
+Lesezeit: ≈ 12 Minuten
+🌱 Willkommen bei Chinparu – der grünen Kraft von Web3
+Chinparu ist mehr als ein Krypto-Asset – es ist eine Bewegung für Nachhaltigkeit, Bildung und grüne Blockchain-Projekte.
+KI-gestützte Token-Logik: Ein GPT-Agent überwacht das Angebot automatisch und führt On-Chain-Aktionen wie Prägen, Verbrennen oder Belohnen durch – basierend auf Echtzeit-Nachhaltigkeitsanforderungen.
+Eco-Alliance Ready: DeFi-, Klima-NFT-, Carbon-Token-, ReFi-Projekte und naturbasierte DAOs können sich unter einem gemeinsamen Banner verbinden.
+Offen & transparent: EVM-kompatibel, Open Source, auf allen gängigen DEXs und Wallets nutzbar.
+Bildung & Bewusstsein: Chinparu fördert ökologisches Bewusstsein und unterstützt grüne Projekte nachhaltig.
+„Wir sind nicht hier, um zu konkurrieren, sondern um jede Initiative zu vernetzen, zu unterstützen und zu verstärken, die unseren Planeten schützt.“ 💚
+💰 Sicher und transparent für Käufer
+Aspekt	Bedeutung
+Festpreis	1 Token = 26 € – kein spekulativer Preiswechsel
+Hohe Sicherheit	Rücktausch theoretisch jederzeit möglich
+Keine Volatilität	Kein Pump & Dump – Preis stabil gehalten
+Transparenz	Smart Contract & Pool vollständig einsehbar
+Vermögensbesichert	Wie Gold-Token oder Stablecoins: 100 % Deckung garantiert
+Technische Daten:
+Tokenname: Chinparu Token
+Ticker: CHINPARU
+Blockchain: Ethereum (ERC-20)
+Fester Preis: 26 € pro Token
+Reserve: > 114 Mio. $ auf Uniswap
+Max. Tokenmenge: 1.000.000.000 CHINPARU
+Smart Contract: 0x28F67A16EbB46Eb01F89e304f4D3D6DDDAE2B1FA
+Hinweis: Preis ist an Ethereum gebunden und kann je nach ETH-Kurs steigen oder fallen.
+🪙 Teilnahme am Chinparu-Ökosystem
+Chinparu belohnt aktive Community-Mitglieder mit Token, XP und Abzeichen.
+Schritt-für-Schritt-Anleitung:
+Portal besuchen: Offizieller Link in den Community-Kanälen.
+Wallet verbinden: MetaMask, Ledger, Trust Wallet (richtige Chain beachten).
+Teilnahmeberechtigung prüfen: Das Portal zeigt automatisch an, ob Sie qualifiziert sind.
+Aufgaben erledigen: Meist nur wenige Minuten pro Aktion.
+Belohnungen erhalten: Token, XP oder Abzeichen werden automatisch gutgeschrieben.
+⚠️ Sicherheits-Hinweise
+Nur offizielle Chinparu-Links verwenden.
+Wallet niemals über fremde Links verbinden.
+Prüfen Sie Datum und Zeitraum jeder Aktion auf offiziellen Kanälen.
+Wallet muss das Chinparu-Netzwerk unterstützen.
+🧠 Pro-Tipps
+Frühzeitig teilnehmen: Aktive Nutzer profitieren zuerst.
+Regelmäßig engagieren: Teilnahme stärkt Profil und Rewards.
+Informiert bleiben: Neue Kampagnen, Partneraktionen und Governance-Programme über den offiziellen Blog.
+💎 Anwendungsbereiche des CHINPARU TOKEN
+🔓 Zugang: Exklusive Tools & Plattform-Funktionen
+🎯 Belohnungen: Token durch Aktivität & Engagement
+🗳️ Governance: Abstimmung über Projektentscheidungen
+🛍️ Marktplatz: Nutzung für digitale Assets & In-App-Transaktionen
+🧩 Fehlerbehebung & Support
+Belohnungen nicht sichtbar? Wallet prüfen, Teilnahmebedingungen erfüllen.
+Technische Probleme: Offizielle Support-Seite im Portal besuchen.
+Phishing-Schutz: Nur verifizierte Links nutzen – niemals externe Nachrichten oder Social Media.
+📢 Ausblick
+Zukünftige Funktionen: Staking, Partner-Belohnungen, erweiterte Governance.
+Bleiben Sie wachsam, handeln Sie sicher und wachsen Sie mit der Chinparu-Community. 💫
+🔗 Offizielle Chinparu Token Informationen
+🌐 Website: https://chinparu.io
+🐦 Twitter/X: @ChinparuOfficial
+💬 Telegram: t.me/ChinparuCommunity
+📜 Contract-Adresse: 0x28F67A16EbB46Eb01F89e304f4D3D6DDDAE2B1FA
+– Das Chinparu Token Team
